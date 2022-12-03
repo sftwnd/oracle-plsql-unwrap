@@ -1,0 +1,27 @@
+create or replace procedure change_code_to_PHONE wrapped
+a000000
+ab
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+424 1ce
+SBTjscybsU7A2MWsjTYWWPeJ/wowgw3Qr9wVZy9AAP4+i9TpoD3IcFooY9o3LoNVyb8Kxi5e
+5XXKKkBb0rJZz6wc3dY5JS+7nunmsnCmgd9Yqv74+b02v/dG4ai5YHMTosbeSbPWw1t5/y9N
+IV8bYRaCpl98ykrm54hcysw32b2DjQY4PSE7nnENUjmj2Nc66DhTaP4mJ1a18pVE/KnHu3Dm
+Ezkiwg8hUEaYCV6fk8rbz4MVPgETOA8tVlr9V8bKUAjSb+Q1uEMhAMOZR8KLl8zysTBGRSPf
+V0Sua6XNGF8jvRqxyiYP8IwHy24VEHjNSaV6I/3trtSGigtBr6OBfEuW3Tg2egcNfgoEbTkN
+gzrRBrDPZUeHZcjEv6XsQ+t+yf+u6JkeQTMD7c1mKShRhzqlJFOYYW06fyzwB7W4n6H51nOY
+DkYN/IGU18UtyPfUs0kkt1p/

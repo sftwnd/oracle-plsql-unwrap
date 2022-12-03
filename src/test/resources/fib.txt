@@ -1,0 +1,16 @@
+FUNCTION fibonacci (
+  N PLS_INTEGER
+) RETURN PLS_INTEGER
+AUTHID CURRENT_USER 
+IS
+  FIB_1 PLS_INTEGER := 0;
+  FIB_2 PLS_INTEGER := 1;
+BEGIN
+  IF N = 1 THEN                              
+    RETURN FIB_1;
+  ELSIF N = 2 THEN
+    RETURN FIB_2;                           
+  ELSE
+    RETURN FIBONACCI(N-2) + FIBONACCI(N-1);  
+  END IF;
+END;
